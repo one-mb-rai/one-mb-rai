@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Hi,
-I really like cats, and I have a facination with Robotics, Computers, Electronics, and Coding. Most of my projects are automation utilities, Discord bots, and Minecraft plugins
+I really like Online Gaming, and I have a facination with Computers, Electronics, and Coding. Most of my projects are based on daily problems I have faced. 
 
 I have experience in a few languages including:
  - JavaScript/TypeScript
