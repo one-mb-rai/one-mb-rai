@@ -1,4 +1,4 @@
-# Amit Rai's Developer Portfolio
+# Amit Rai
 
 ## About Me
 
