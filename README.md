@@ -42,12 +42,12 @@ I have worked on a wide range of projects, leveraging my skills to create innova
 Feel free to reach out if you're interested in collaboration, have questions, or just want to connect.
 
 - **LinkedIn:** [https://www.linkedin.com/in/amit-rai-b45352128/]
-- **GitHub:** [https://github.com/cool94amit]
+- **GitHub:** [https://github.com/one-mb-rai]
 - **Email:** [amitcs0003@gmail.com]
 
 ## Stay Connected
 
 Thank you for visiting my GitHub profile! 😊
 
-![github stats](https://github-readme-stats.vercel.app/api?username=arajanrai&count_private=true&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cool94amit&layout=compact&langs_count=10)
+![github stats](https://github-readme-stats.vercel.app/api?username=one-mb-rai&count_private=true&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=one-mb-rai&layout=compact&langs_count=10)
