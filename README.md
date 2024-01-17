@@ -5,6 +5,8 @@
 Hi there! 👋 I'm Amit Rai, a passionate and experienced IT professional with over 6 years of expertise in the industry. My journey has been marked by a diverse skill set and a commitment to staying at the forefront of technology.
 
 ## Skills
+- **App Development**
+  -Android Native   
 
 - **Front-end Development:**
   - HTML
