@@ -6,7 +6,7 @@ Hi there! 👋 I'm Amit Rai, a passionate and experienced IT professional with o
 
 ## Skills
 - **App Development**
-  -Android Native   
+  - Android Native   
 
 - **Front-end Development:**
   - HTML
