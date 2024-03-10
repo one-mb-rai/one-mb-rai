@@ -15,14 +15,10 @@ Google message like application without any analytics using compose jetpack<br>V
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=one-mb-rai&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=one-mb-rai&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=one-mb-rai&icon=0&color=4)](https://visitcount.itsvg.in)
