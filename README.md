@@ -1,5 +1,7 @@
+# Amit Rai's Developer Portfolio
+
 # 💫 About Me:
-Google message like application without any analytics using compose jetpack<br>Video calling app<br>Simple counter widget for counting number of times screen is unlocked by user<br>
+Hi there! 👋 I'm Amit Rai, a passionate and experienced IT professional with over 6 years of expertise in the industry. My journey has been marked by a diverse skill set and a commitment to staying at the forefront of technology.
 
 
 ## 🌐 Socials:
